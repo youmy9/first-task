@@ -1,0 +1,11 @@
+*{
+
+    text-align: center;
+    background-color: rgb(187, 90, 109);
+
+}
+
+.center{
+    text-align: center;
+    list-style-position: inside;
+}
